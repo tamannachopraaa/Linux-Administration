@@ -10,6 +10,6 @@ Code snippets:
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/ad463e58-86d8-4f2b-9ccf-fbab3aab6b0f" />
 
 Commands used:
-touch song{1..o}.mp3 snap{1..6• jpg filmf1..o}.avi
+touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
 mkdir family friends work
 
