@@ -8,7 +8,7 @@ Create the /home/consultants directory, set write permission using the symbolic 
 operator1 to deny all access for non-group users, then verify the updated umask setting.
 
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/564a3c18-92ee-496f-9496-96c68ca3f549" />
-![image](https://github.com/user-attachments/assets/7e550cc2-1368-44e1-97de-6df2785d1b57)
+![image](https://github.com/user-attachments/assets/43aa30ad-ba86-46e8-b20e-f3c13ab51f74)
 
 
 commands used-
