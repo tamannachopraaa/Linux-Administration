@@ -6,7 +6,6 @@ create all three subdirectories at the same time.
 Approach:
 Use the touch command with brace expansion to create the files and the mkdir command with space-separated names to create the directories.
 
-Code snippets:
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/ad463e58-86d8-4f2b-9ccf-fbab3aab6b0f" />
 
 Commands used:
